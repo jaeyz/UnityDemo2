@@ -19,6 +19,9 @@ public class Controls : MonoBehaviour {
         }
         moveDirection.y -= gravity * Time.deltaTime;
         controller.Move(moveDirection * Time.deltaTime);
+		for(int x = 0; x < 9; x++) {
+			
+		}
     }
 	
 }
