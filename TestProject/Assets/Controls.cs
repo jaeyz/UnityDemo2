@@ -20,7 +20,7 @@ public class Controls : MonoBehaviour {
         moveDirection.y -= gravity * Time.deltaTime;
         controller.Move(moveDirection * Time.deltaTime);
 		if(speed == 7f) {
-			Debug.Log("Speed is 7.");	
+			Debug.Log("Speed is 7.");
 		}
     }
 	
