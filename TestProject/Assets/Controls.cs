@@ -17,8 +17,11 @@ public class Controls : MonoBehaviour {
                 moveDirection.y = jumpSpeed;
             
         }
-        moveDirection.y -= gravity * Time.deltaTime;
-        controller.Move(moveDirection * Time.deltaTime);
+		
+ 
+		
+		moveDirection.y -= gravity * Time.deltaTime;
+        controller.Move(moveDirection * Time.deltaTime); ///moves the character
 		
     }
 	
