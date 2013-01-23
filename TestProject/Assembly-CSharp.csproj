@@ -47,6 +47,8 @@
      <Compile Include="Assets\Controls.cs" />
      <Compile Include="Assets\SecondtTestScript.cs" />
      <Compile Include="Assets\TestScript.cs" />
+     <None Include="Assets\RGBA.shader" />
+     <None Include="Assets\CurveShader.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
