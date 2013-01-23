@@ -1,17 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RGBAShader.shader">
-    <Files>
-      <File FileName="Assets/Controls.cs" Line="1" Column="19" />
-      <File FileName="Assets/RGBAShader.shader" Line="34" Column="4" />
-      <File FileName="Assets/CurveShader.shader" Line="6" Column="2" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
           <Node name="Assembly-CSharp" expanded="True">
             <Node name="Assets" expanded="True">
-              <Node name="RGBAShader.shader" selected="True" />
+              <Node name="RGBA.shader" selected="True" />
             </Node>
           </Node>
         </State>
